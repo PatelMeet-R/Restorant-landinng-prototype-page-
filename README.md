@@ -4,5 +4,5 @@
  This website is not responsive yet I will improve my skill regarding responsive in next project (repo)
  </br>
  here's Link :- </br>
- https://patelmeet-r.github.io/Restorant-landinng-prototype-page-/w
+ https://patelmeet-r.github.io/Restorant-landinng-prototype-page-/
  </hr>
